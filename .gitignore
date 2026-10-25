@@ -3,4 +3,5 @@ output/
 reports/
 .ipynb_checkpoints/
 __pycache__/
-.env
+.env\
+*.ipynb
